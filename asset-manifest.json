@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/seeking-alpha-assessment/static/css/main.e75f6a57.chunk.css",
+    "main.css": "/seeking-alpha-assessment/static/css/main.022f5e82.chunk.css",
     "main.js": "/seeking-alpha-assessment/static/js/main.4bef4b2b.chunk.js",
     "main.js.map": "/seeking-alpha-assessment/static/js/main.4bef4b2b.chunk.js.map",
     "runtime-main.js": "/seeking-alpha-assessment/static/js/runtime-main.dfb10f37.js",
@@ -8,16 +8,16 @@
     "static/js/2.f9cf05bf.chunk.js": "/seeking-alpha-assessment/static/js/2.f9cf05bf.chunk.js",
     "static/js/2.f9cf05bf.chunk.js.map": "/seeking-alpha-assessment/static/js/2.f9cf05bf.chunk.js.map",
     "index.html": "/seeking-alpha-assessment/index.html",
-    "precache-manifest.98f66b182736deac14bbd2a800fe74ae.js": "/seeking-alpha-assessment/precache-manifest.98f66b182736deac14bbd2a800fe74ae.js",
+    "precache-manifest.30f360309992dcaca24c29ab3e3488dc.js": "/seeking-alpha-assessment/precache-manifest.30f360309992dcaca24c29ab3e3488dc.js",
     "service-worker.js": "/seeking-alpha-assessment/service-worker.js",
-    "static/css/main.e75f6a57.chunk.css.map": "/seeking-alpha-assessment/static/css/main.e75f6a57.chunk.css.map",
+    "static/css/main.022f5e82.chunk.css.map": "/seeking-alpha-assessment/static/css/main.022f5e82.chunk.css.map",
     "static/js/2.f9cf05bf.chunk.js.LICENSE": "/seeking-alpha-assessment/static/js/2.f9cf05bf.chunk.js.LICENSE",
     "static/media/logo.svg": "/seeking-alpha-assessment/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.dfb10f37.js",
     "static/js/2.f9cf05bf.chunk.js",
-    "static/css/main.e75f6a57.chunk.css",
+    "static/css/main.022f5e82.chunk.css",
     "static/js/main.4bef4b2b.chunk.js"
   ]
 }

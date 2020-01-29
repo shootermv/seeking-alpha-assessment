@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af2250f489a12581585081d3b46f8b23",
+    "revision": "028d0c443dcb6afd37986f7d483b8863",
     "url": "/seeking-alpha-assessment/index.html"
   },
   {
-    "revision": "3015976332558933bd04",
-    "url": "/seeking-alpha-assessment/static/css/main.e75f6a57.chunk.css"
+    "revision": "2e5bb453957986ad53e2",
+    "url": "/seeking-alpha-assessment/static/css/main.022f5e82.chunk.css"
   },
   {
     "revision": "2173aa7451f4e78518a3",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/seeking-alpha-assessment/static/js/2.f9cf05bf.chunk.js.LICENSE"
   },
   {
-    "revision": "3015976332558933bd04",
+    "revision": "2e5bb453957986ad53e2",
     "url": "/seeking-alpha-assessment/static/js/main.4bef4b2b.chunk.js"
   },
   {
