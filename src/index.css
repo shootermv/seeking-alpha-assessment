@@ -14,13 +14,13 @@ code {
 .App {
   display: grid;
   grid-template-columns: repeat(50, 20px);
-  border-left: 1px solid red;
-  border-top: 1px solid red;
+  border-left: 1px solid #61dafb;
+  border-top: 1px solid #61dafb;
 }
 .App > div {
   background: #fff;
-  border-right: 1px solid red;
-  border-bottom: 1px solid red;
+  border-right: 1px solid #61dafb;
+  border-bottom: 1px solid #61dafb;
   height: 20px;
 }
 div.live {
