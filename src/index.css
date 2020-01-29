@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.App {
+  display: grid;
+  grid-template-columns: repeat(50, 20px);
+  border-left: 1px solid red;
+  border-top: 1px solid red;
+}
+.App > div {
+  background: #fff;
+  border-right: 1px solid red;
+  border-bottom: 1px solid red;
+  height: 20px;
+}
+div.live {
+  background: #000;
+}
